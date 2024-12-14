@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "164432051601",
+    "project_id": "aurora-e77e6",
+    "storage_bucket": "aurora-e77e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164432051601:android:97d6b12fb4e3a35056ae30",
+        "android_client_info": {
+          "package_name": "co.aurora.student"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIFSDd91Kpk4nnyv9kiJuU0H1b59GxSmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164432051601:android:c1e0f060ea9d983f56ae30",
+        "android_client_info": {
+          "package_name": "co.aurora.teacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIFSDd91Kpk4nnyv9kiJuU0H1b59GxSmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
